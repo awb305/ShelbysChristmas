@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /Home/
+
+- title: The Big Event
+  url: /The-Big-Event/
+
+- title: Lodging
+  url: /Lodging/
+
+- title: Things to do
+  url: /Things-to-do/
+
+- title: Search
+  url: /search/
