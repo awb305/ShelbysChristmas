@@ -5,7 +5,7 @@ locale: en_US
 description: 
 logo: shelbypic.jpg
 search: true
-url: http://localhost:4000
+url: https://awb305.github.io/ShelbysChristmas/
 
 # Jekyll configuration
 
