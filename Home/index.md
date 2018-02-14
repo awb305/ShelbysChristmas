@@ -35,5 +35,10 @@ title: Itinerary
 * Come back the evening of the 1st 
 
 
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
+
+
 
 
