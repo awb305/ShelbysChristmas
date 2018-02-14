@@ -37,7 +37,7 @@ comments: true
 
 
 {% if page.comments %}
-  {% include disqus_comments.html %}
+  {% include disqus-comments.html %}
 {% endif %}
 
 
