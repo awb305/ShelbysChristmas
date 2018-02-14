@@ -36,7 +36,7 @@ comments: true
 * Come back the evening of the 1st 
 
 
-{% if site.disqus.shortname %}
+{% if page.comments %}
   {% include disqus_comments.html %}
 {% endif %}
 
