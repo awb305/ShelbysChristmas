@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Shania Twain Concert
+comments: true
 
 ---
 

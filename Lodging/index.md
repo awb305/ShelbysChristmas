@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lodging
+comments: true
 ---
 
 
@@ -24,4 +25,7 @@ title: Lodging
 {% if page.comments %}
   {% include disqus-comments.html %}
 {% endif %}
+
+
+
 

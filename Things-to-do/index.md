@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Things to Do
+comments: true
 
 ---
 
