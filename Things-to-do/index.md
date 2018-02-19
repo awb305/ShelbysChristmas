@@ -23,6 +23,12 @@ title: Things to Do
 [Restaurants in Quebec City](https://www.tripadvisor.com/Restaurants-g155033-Quebec_City_Quebec.html)
 
 
+{% if page.comments %}
+  {% include disqus-comments.html %}
+{% endif %}
+
+
+
 
 
 

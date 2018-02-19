@@ -19,3 +19,9 @@ title: Lodging
 -----
 
 [Air Bnb Quebec City](https://www.airbnb.com/s/Qu%C3%A9bec-City--QC--Canada/homes?checkin=2018-06-27&checkout=2018-07-01&adults=2&children=0&infants=0&guests=2&source=mob&sem_keywords=air%20bnb&allow_override%5B%5D=&ne_lat=46.82692077253123&ne_lng=-71.19679074980172&sw_lat=46.800328332738495&sw_lng=-71.23026471830758&zoom=14&search_by_map=true&superhost=true&s_tag=-yIa_6m0)
+
+
+{% if page.comments %}
+  {% include disqus-comments.html %}
+{% endif %}
+

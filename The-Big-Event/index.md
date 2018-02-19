@@ -27,6 +27,11 @@ title: Shania Twain Concert
 [Siberia Spa](http://siberiastationspa.com/)
 
 
+{% if page.comments %}
+  {% include disqus-comments.html %}
+{% endif %}
+
+
 
 
 
